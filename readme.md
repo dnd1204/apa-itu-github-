@@ -34,7 +34,7 @@ adalah tempat penyimpanan project, di Github biasanya berisi:
 Readme berisi tentang penjelasan proyek atau aplikasi yang sedang dikembangkan atau dibuaat.
 Ini bisa mencakup proyek apa yg sedang dikembangkan, kinerja proyek, dan apa saja yang dipakai dalam mengembangkan proyek tersebut.
 
-##### Markdown 
+### Markdown 
 Markdown adalah format penulisan yang digunakan untuk membuat catatan di README.md, seperti Word atau Google Docs, tetapi menggunakan karakter khusus.
 
 #### karakter-karakter apa aja yang sering digunakan dalam membuat catatan di readme.md github?
