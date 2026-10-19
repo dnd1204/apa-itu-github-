@@ -96,7 +96,9 @@ print("Hello GitHub")
 ```
 
 12. `[]` dan ` () ` untuk menuliskan teks tautan contoh sebelumnya pada table of content
-contoh lainnya [teks yang ditampilkan](urltujuan)
+contoh lainnya
+[teks yang ditampilkan](urltujuan)
+
 kedua karater ini biasanya dipakai bersamaan.
 
 13.`!` Tanda seru biasanya digunakan untuk menampilkan gambar gambar yg kita simpan di file lain namun masih 1 repository
@@ -105,12 +107,13 @@ contohnya
 perlu diiringi dengan karakter lain taotu karakter teks tautan dan url
 
 14. `|` untuk membuat table didalam markdown cotohnya
+
 | nama | umur |
 |---|---|
 | brian |21|
 | atika | 25|
 
-15. `~`  tilde membuat teks tercoret dengan double tilde di
+16. `~`  tilde membuat teks tercoret dengan double tilde di
 contoh
 ~~kontak yang salah~~
 fungsinya sering digunakan untuk menunjukan perubahan informasi
